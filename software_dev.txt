@@ -1,0 +1,75 @@
+## Software Development - Software Development is the process of designing, creating, testing, deploying, and maintaining software applications. 
+
+
+
+## 1 front end -   HTML (HyperText Markup Language):
+
+Defines the structure of web content.
+Example: headings, paragraphs, images.
+CSS (Cascading Style Sheets):
+
+Styles the appearance of the web page (colors, fonts, layouts).
+JavaScript:
+
+Adds interactivity to web pages (e.g., animations, form validation).
+
+
+Frameworks and Libraries:
+React.js (JavaScript library for building UIs).
+Angular (Google's TypeScript-based web framework).
+
+
+
+2 middleware - express js , Python ( Flask, FastAPI, Django) , Java , Ruby , C# ( .NET Core ) , PHP
+
+3 backend -  Python (Django, Flask.) , C# (ASP.NET.) , Java
+
+
+
+## software development
+
+web app - designed for specific user interactions.
+
+website - collection of interlinked webpages
+
+webpage -  a single document or page on the internet that is identified by a unique URL.
+
+
+API - An API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate and interact with each other
+
+
+## CRUD = Create Read Update Delete
+
+
+## AGILE methodology - research analysis , design , testing the software for the client and having structured procedure or principles
+
+## Testing - unit testing , integration testing
+
+
+## Compiler -  checks entire code for error
+     interpreter - checks each n every single line for error
+
+##  (1)   Procedural language- C (top down approach)
+      (2)  Object oriented - C++ (top down approach) , Java(bottom-up)
+      (3)  functional - haskell 
+      (4)  scripting language - python , js 
+
+
+"D:\62060f3c-7ce9-411f-9a2a-c4f81e6b7914.avif"
+
+
+Types of Program paradigms:
+
+i) imperative programming ( step by step procedure - steps are given without the solution )
+
+ii)  declarative  programming ( what the program accomplish - solution is presented without the steps )
+
+iii) object oriented  programming (obj that represent real world entities - encapsulation = state of obj manipulated by methods, inheritance, polymorphism)
+
+iv) logical  programming ( solve prob using logical interface)
+
+v) programming
+
+
+
+
